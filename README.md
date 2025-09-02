@@ -1,2 +1,2 @@
-# GitHub-demo-built-in
+# GitHub-Demo
 I am creating this repo to deploy my website using built-in GitHub actions
